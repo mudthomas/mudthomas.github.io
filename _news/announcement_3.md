@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Changed to high-res profile picture.
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
+Changed to high-res profile picture.
