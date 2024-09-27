@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a new website. The old one is still available on [renstrom.dev](https://www.renstrom.dev), but will soon be replaced by this one.
+Started a new website. The old one is available [here](/oldsite/index.html).
