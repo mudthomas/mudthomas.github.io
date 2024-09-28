@@ -20,6 +20,8 @@ nav_order: 5
 
 ---
 
+## These stats came with the template, not much to brag about but I'll keep it
+
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
 {% if site.data.repositories.github_users.size > 1 %}
