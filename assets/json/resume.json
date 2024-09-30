@@ -19,7 +19,7 @@
       "startDate": "2023-05-01",
       "endDate": "2023-12-31",
       "summary": "As part of my thesis I solved an issue with the Python package PyFMI, a tool for interacting with Functional Mock-Up Units.",
-      "highlights": ["As part of my thesis I solved an issue with the Python package PyFMI, a tool for interacting with Functional Mock-Up Units."]
+      "highlights": ["Created models in Modelica", "Used code written in Cython"]
     }
   ],
   "education": [
@@ -31,8 +31,11 @@
       "studyType": "Master of Science",
       "startDate": "2022-08-01",
       "endDate": "2024-01-01",
-      "courses": ["[Test](https://www.svt.se)"],
-      "highlights": "My thesis project was done in cooperation with Modelon, analysing an issue with their FMU-tool PyFMI. I attempted to improve their finite differences approximation of the Jacobian by selecting better increments."
+      "courses": [
+        "<a href='/oldsite/courses_master_en.html''>Full list of courses (English)</a>",
+        "<a href='/oldsite/courses_master_sv.html''>Full list of courses (Swedish)</a>"
+      ],
+      "summary": "My thesis project was done in cooperation with Modelon, analysing an issue with their FMU-tool PyFMI. I attempted to improve their finite differences approximation of the Jacobian by selecting better increments."
     },
     {
       "institution": "Lund University, Lund, Sweden",
@@ -42,8 +45,13 @@
       "studyType": "Bachelor of Science",
       "startDate": "2019-01-01",
       "endDate": "2022-06-01",
-      "courses": ["<a href='https://www.sr.se'>Test</a>"],
-      "highlights": "For my thesis I compared the optimal Arnoldi approximation to the best approximation of a characterstic polynomial, made using Remez algorithm as adapted for complex numbers by Dr. Peter Tang."
+      "courses": [
+        "<a href='/oldsite/courses_bach_en.html''>Full list of courses (English)</a>",
+        "<a href='/oldsite/courses_bach_sv.html''>Full list of courses (Swedish)</a>"
+      ],
+      "highlights": [
+        "For my thesis I compared the optimal Arnoldi approximation to the best approximation of a characterstic polynomial, made using Remez algorithm as adapted for complex numbers by Dr. Peter Tang."
+      ]
     }
   ],
   "publications": [
@@ -52,14 +60,14 @@
       "publisher": "LUP Student Papers",
       "releaseDate": "2024-01-01",
       "url": "https://lup.lub.lu.se/student-papers/search/publication/9148734",
-      "summary": "Add summary."
+      "summary": "My Master's thesis."
     },
     {
       "name": "Relating the Arnoldi approximation to the best Chebyshev approximation of the characteristic polynomial - A study using a complex valued variant of the Remez algorithm",
       "publisher": "LUP Student Papers",
       "releaseDate": "2022-01-01",
       "url": "https://lup.lub.lu.se/student-papers/search/publication/9098223",
-      "summary": "Add summary."
+      "summary": "My Bachelor's thesis."
     }
   ],
   "skills": [
