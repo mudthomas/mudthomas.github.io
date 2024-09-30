@@ -49,9 +49,7 @@
         "<a href='/oldsite/courses_bach_en.html''>Full list of courses (English)</a>",
         "<a href='/oldsite/courses_bach_sv.html''>Full list of courses (Swedish)</a>"
       ],
-      "highlights": [
-        "For my thesis I compared the optimal Arnoldi approximation to the best approximation of a characterstic polynomial, made using Remez algorithm as adapted for complex numbers by Dr. Peter Tang."
-      ]
+      "summary": "For my thesis I compared the optimal Arnoldi approximation to the best approximation of a characterstic polynomial, made using Remez algorithm as adapted for complex numbers by Dr. Peter Tang."
     }
   ],
   "publications": [
