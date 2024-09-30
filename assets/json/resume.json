@@ -31,7 +31,8 @@
       "studyType": "Master of Science",
       "startDate": "2022-08-01",
       "endDate": "2024-01-01",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Theory of Relativity"],
+      "highlights": "My thesis project was done in cooperation with Modelon, analysing an issue with their FMU-tool PyFMI. I attempted to improve their finite differences approximation of the Jacobian by selecting better increments."
     },
     {
       "institution": "Lund University, Lund, Sweden",
@@ -41,7 +42,8 @@
       "studyType": "Bachelor of Science",
       "startDate": "2019-01-01",
       "endDate": "2022-06-01",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Theory of Relativity"],
+      "highlights": "For my thesis I compared the optimal Arnoldi approximation to the best approximation of a characterstic polynomial, made using Remez algorithm as adapted for complex numbers by Dr. Peter Tang."
     }
   ],
   "publications": [
@@ -72,6 +74,16 @@
         "Numerical Approximation",
         "Numerical Algorithms with Python/SciPy "
       ]
+    },
+    {
+      "name": "Programming Languages",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Python", "Java", "C", "LaTeX", "R"]
+    },
+    {
+      "name": "Coding Tools",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Git", "VSCode"]
     }
   ],
   "languages": [
@@ -84,18 +96,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "coding": [
-    {
-      "name": "Languages",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["Python", "Java", "C", "R", "LaTeX"]
-    },
-    {
-      "name": "Tools",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["Git", "VSCode"]
     }
   ],
   "interests": [
