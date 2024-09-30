@@ -18,7 +18,7 @@
       "url": "https://modelon.com",
       "startDate": "2023-05-01",
       "endDate": "2023-12-31",
-      "summary": "Add summary.",
+      "summary": "As part of my thesis I solved an issue with the Python package PyFMI, a tool for interacting with Functional Mock-Up Units.",
       "highlights": ["As part of my thesis I solved an issue with the Python package PyFMI, a tool for interacting with Functional Mock-Up Units."]
     }
   ],
@@ -31,7 +31,7 @@
       "studyType": "Master of Science",
       "startDate": "2022-08-01",
       "endDate": "2024-01-01",
-      "courses": ["Theory of Relativity"],
+      "courses": ["[Test](https://www.svt.se)"],
       "highlights": "My thesis project was done in cooperation with Modelon, analysing an issue with their FMU-tool PyFMI. I attempted to improve their finite differences approximation of the Jacobian by selecting better increments."
     },
     {
@@ -42,7 +42,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2019-01-01",
       "endDate": "2022-06-01",
-      "courses": ["Theory of Relativity"],
+      "courses": ["<a href='https://www.sr.se'>Test</a>"],
       "highlights": "For my thesis I compared the optimal Arnoldi approximation to the best approximation of a characterstic polynomial, made using Remez algorithm as adapted for complex numbers by Dr. Peter Tang."
     }
   ],
