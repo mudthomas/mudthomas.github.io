@@ -5,7 +5,7 @@
     "image": "",
     "email": "thomas@renstrom.dev",
     "url": "https://www.renstrom.dev",
-    "summary": "A recently graduated matematician with a love for nature",
+    "summary": "A recently graduated mathematician with a love for nature",
     "location": {
       "city": "Halmstad",
       "countryCode": "SE"
@@ -19,7 +19,7 @@
       "startDate": "2023-05-01",
       "endDate": "2023-12-31",
       "summary": "Add summary.",
-      "highlights": ["Relativity"]
+      "highlights": ["As part of my thesis I solved an issue with the Python package PyFMI, a tool for interacting with Functional Mock-Up Units."]
     }
   ],
   "education": [
@@ -86,30 +86,28 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "coding": [
     {
-      "name": "Physics",
+      "name": "Languages",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "keywords": ["Python", "Java", "C", "R", "LaTeX"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Tools",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Git", "VSCode"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Crafts",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Leather crafts", "Sewing", "Whittling"]
+    },
+    {
+      "name": "Cooking",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["DIY Sodas", "Preserves", "I am also a bit of a pizza nerd :)"]
     }
   ],
   "projects": [
