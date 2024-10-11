@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: A practical mathematician with a love for nature and affinity for cooking
 
 profile:
   align: right
@@ -17,9 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+I am a recently graduated mathematician with a Masters' degree from Lunds University. The specialization of both my BSc and MSc were in Numerical Analysis which I love. I genuinely enjoy optimizing code, and working with efficient algorithms.
+
+During my numerical analysis courses all coding was done in Python, a language I now consider myself fluent in. When I want to code something in my spare time, it is always my go-to language. I have also taken university entire courses in Java and C. Apart from these I have also coded in R as part of a statistics course, I have written a lot of texts in LaTeX and also done some presentations in Markdown and Jupyter Notebook. In a course on mathematical modelling I did linear programming in Excel. During my Master's thesis I made models in Modelica and worked with code in Cython. For my thesis work, and also in one or two other courses, I studied and reworked Fortran code, but I have never written my own projects in Fortran. I am currently learning the scripting language AutoHotKey for a small project.
+
 This site is currently a work in progress. Some information will NOT be correctly filled in. The template uses Albert Einstein as a place holder, so if some information seem to describe him better than Thomas Renström, that is probably the reason.
 My old website, that was built using my own html instead of Jekyll, is still available [here](/oldsite/index.html), and it should not contain a single piece of information about dr. Einstein.
 
 Under 'cv' you can find a JSON-resume version of my personal CV. A pdf edition of the CV is also available in [English](/assets/pdf/CV_Thomas_Renstrom_en.pdf) and [Swedish](/assets/pdf/CV_Thomas_Renstrom_sv.pdf). As well as my cover letter in [Swedish](/assets/pdf/personligt_brev.pdf). An English version of my cover letter is in the works!
 
-This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below.
+<!-- This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. -->
