@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-The paper bobbins that came with the DMC storage box broke too easily. I first printed a design I found on Thingiverse and even remixed it a bit, but ultimately I decided to design my own. Bobbins usually have two slits for thread, but my wife likes the 'floss drop' method and requested that I added extra holes instead of the slits.
+The paper bobbins that came with the DMC storage box broke too easily. I first printed a design I found on [Thingiverse](https://www.thingiverse.com) and even remixed it a bit, but ultimately I decided to design my own. Bobbins usually have two slits for thread, but my wife likes the 'floss drop' method and requested that I added extra holes instead of the slits.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
