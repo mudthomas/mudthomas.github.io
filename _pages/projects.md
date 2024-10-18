@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This is where my projects will live. Currently there are just examples.
+description: Some different projects I have going on
 nav: true
 nav_order: 2
 display_categories: [work, fun]
