@@ -13,6 +13,15 @@
   },
   "work": [
     {
+      "name": "Cocoon Airbag Protection AB, Lund, Sweden",
+      "position": "Embedded developer",
+      "url": "https://www.cocoonairbag.com/",
+      "startDate": "2025-01-17",
+      "endDate": "2025-02-14",
+      "summary": "Hired as a consultant for a short time. Worked on training and deploying machine learning based software for embedded systems.",
+      "highlights": ["Used methods from scikit-learn"]
+    },
+    {
       "name": "Modelon, Lund, Sweden",
       "position": "Master Thesis Student",
       "url": "https://modelon.com",
@@ -115,15 +124,15 @@
       "icon": "fa-solid fa-tag",
       "keywords": ["DIY Sodas", "Preserves", "I am also a bit of a pizza nerd :)"]
     }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
+  // "projects": [
+  //   {
+  //     "name": "Quantum Computing",
+  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+  //     "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+  //     "startDate": "2018-01-01",
+  //     "endDate": "2018-01-01",
+  //     "url": "https://example.com"
+  //   }
+  // ]
 }
