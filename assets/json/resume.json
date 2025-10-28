@@ -13,6 +13,23 @@
   },
   "work": [
     {
+      "name": "Knowit AB, Lund, Sweden",
+      "position": "Consultant developer",
+      "url": "https://www.knowit.se/",
+      "startDate": "2025-04-01",
+      "endDate": "Ongoing",
+      "summary": "Working as part of an off-site consulting team for Ericsson."
+    },
+    {
+      "name": "Ericsson AB, Lund, Sweden",
+      "position": "Embedded developer",
+      "url": "https://www.ericsson.com/",
+      "startDate": "2025-04-01",
+      "endDate": "Ongoing",
+      "summary": "Hired as a consultant through Knowit AB. Developing baseband technology.",
+      "highlights": ["Coded in C", "Wrote tests in Python"]
+    },
+    {
       "name": "Cocoon Airbag Protection AB, Lund, Sweden",
       "position": "Embedded developer",
       "url": "https://www.cocoonairbag.com/",
